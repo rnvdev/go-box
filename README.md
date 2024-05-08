@@ -1,2 +1,2 @@
 # reappercorp
-Lisenced code from Reapper Cop
+Lisenced code from Reapper Corp
