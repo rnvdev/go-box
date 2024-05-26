@@ -1,2 +1,2 @@
-# reappercorp
-Lisenced code from Reapper Corp
+# Go-box
+Gym of Golang programming language
